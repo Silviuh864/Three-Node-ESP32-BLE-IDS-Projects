@@ -12,8 +12,8 @@
 #include "esp_mac.h"
 #include "esp_now.h"
 #include "esp_timer.h"
-static const char *TARGET_DEVICE_NAME = "A53 al utilizatorului Deus";
-uint8_t broadcastAddress[] = {0x3C, 0x61, 0x05, 0x64, 0xFA, 0x0C};
+static const char *TARGET_DEVICE_NAME = "";
+uint8_t broadcastAddress[] = {};
 #define PATH_LOSS_INDEX     2.5f    
 #define PROCESS_NOISE       0.015f
 #define CALIBRATION_SAMPLES 100
