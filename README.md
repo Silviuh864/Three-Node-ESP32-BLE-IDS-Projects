@@ -1,6 +1,6 @@
 # Three-Node ESP32 BLE Intrusion Detection System
 
-A real-time BLE device localization and perimeter monitoring system built with three ESP32 nodes arranged in a triangular configuration. Detects, identifies, and tracks BLE devices within a defined indoor space using RSSI-based positioning.
+A real-time BLE device localization and perimeter monitoring system built with three ESP32 nodes arranged in a triangular configuration. Detects and identifies BLE devices within a defined indoor space using RSSI-based positioning.
 
 ![System Overview](docs/system_overview.png)
 
